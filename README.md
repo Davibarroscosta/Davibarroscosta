@@ -19,6 +19,10 @@
   
   
  
+  ![Snake animation](https://github.com/Davibarroscosta/Davibarroscosta/output/github-contribution-grid-snake.svg)
+ 
+  
+ 
   
   
  
