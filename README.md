@@ -3,7 +3,7 @@
  
 
 - 🔭   Atualmente estou em  busca de um estágio  de desenvolvedor front-end
-- 🌱   Atualmente estou aprendendo HTML, CSS e JavaScript
+- 🌱   Atualmente estou aprenden  HTML, CSS e JavaScript
 
 <div align = "centro">
   <a href="https://github.com/Davibarroscosta">
