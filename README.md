@@ -9,7 +9,7 @@
 - 📚  Tenho 20 anos e Atualmente  estou cursando o 5° período de Informática para Negócios
 - 🎯  Pretendo através de muito estudo e dedicação ser um Desenvolvedor Front-end
 - 💻  Atualmente estou estudando HTML, CSS e JavaScript
-
+<br>
 <div align="center">
   <a href="https://github.com/Davibarroscosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davibarroscosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
