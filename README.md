@@ -7,7 +7,7 @@
 
 - 🙂  Meu nome é Davi Barros Costa
 - 📚  Tenho 20 anos e Atualmente  estou cursando o 5° período de Informática para Negócios
-- 🎯  Pretendo através de muito estudo e dedicação ser um Desenvolvedor Front-end
+- 🎯  Pretendo através de muito estudo e dedicação ser um Desenvolvedor 
 - 💻  Atualmente estou estudando HTML, CSS e JavaScript
 <br>
 <div align="center">
