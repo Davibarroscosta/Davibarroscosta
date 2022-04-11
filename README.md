@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/102886070/162827042-2ea59b60-4668-40b4-8c94-0ecc49d09205.gif"   height="170"/> 
 
-### Aqui eu compartilho meus projetos e aprendizado
+### Aqui eu compartilho meus projetos e aprendizados
 
 - 🙂  Meu nome é Davi Barros Costa
 - 📚  Tenho 20 anos e Atualmente  estou cursando o 5° período de Informática para Negócios
