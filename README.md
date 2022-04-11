@@ -1,10 +1,12 @@
 ## Olá! Eu sou o Davi Barros Costa👋
 
  
-
 - 🔭   Atualmente estou em  busca de um estágio  de desenvolvedor front-end
 - 🌱   Atualmente estou aprenden  HTML, CSS e JavaScript
 
+<div align="center">
+  <a href="https://github.com/Davibarroscosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davibarroscosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davibarroscosta&theme=dark&hide_langs_below=1" />
