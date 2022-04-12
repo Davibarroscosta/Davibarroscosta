@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Me chamo Davi! <img src="https://user-images.githubusercontent.com/102886070/162833504-e8df4871-3a37-42b0-881a-b33082af2947.gif"
- width="50" /></h1>
+ width="50" /></h1> <br> <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/102886070/162827042-2ea59b60-4668-40b4-8c94-0ecc49d09205.gif"   height="170"/> 
 
