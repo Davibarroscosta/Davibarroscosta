@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Davi! <br> <img src="https://user-images.githubusercontent.com/102886070/162833504-e8df4871-3a37-42b0-881a-b33082af2947.gif"
+<h1 align="center">Olá! Eu me chamo Davi! <br> <img src="https://user-images.githubusercontent.com/102886070/162833504-e8df4871-3a37-42b0-881a-b33082af2947.gif"
  width="50" /></h1> 
 
 
